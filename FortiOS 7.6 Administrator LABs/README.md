@@ -1,5 +1,8 @@
 # FortiGate VM Lab – Basic Deployment and Internet Access Policy
 
+<img width="1100" height="460" alt="topology_final" src="https://github.com/user-attachments/assets/c9071814-e5df-4e4d-ac44-44ee6d4d94d2" />
+
+
 ## Introduction
 This lab documents the step‑by‑step process of deploying a FortiGate virtual appliance on VMware Workstation, configuring its network interfaces, activating the license, and enabling internet access for an internal Windows 10 client through a security policy. The hands‑on exercise demonstrates fundamental FortiGate administration, including CLI and GUI management, interface setup, and traffic inspection.
 
