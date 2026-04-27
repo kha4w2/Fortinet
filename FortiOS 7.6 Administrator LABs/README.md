@@ -68,7 +68,6 @@ After naming the VM and choosing a storage path, the virtual machine settings ar
 ### Step 6: Creating the LAN Segment for the Internal Network
 The second network adapter (**Network Adapter 2**) is configured. Instead of a standard network type, **LAN Segment** is selected. A new LAN segment named **LAN‑1** is created. This isolated segment emulates the internal network; any virtual machine connected to it will have its traffic routed through the FortiGate.
 
-<img width="975" height="504" alt="image" src="https://github.com/user-attachments/assets/3a1a56fc-2d9b-4a80-9fed-ac9a77123909" />
 <img width="975" height="504" alt="image" src="https://github.com/user-attachments/assets/769e7e04-b83e-4850-badc-a1cc7519be9b" />
 
 
