@@ -1,4 +1,4 @@
-# FortiGate VM Lab – Basic Deployment and Internet Access Policy
+# FortiGate VM Lab (Intial Setup) – Network Deployment & Security Policy Configuration 
 
 <img width="1100" height="460" alt="topology_final" src="https://github.com/user-attachments/assets/c9071814-e5df-4e4d-ac44-44ee6d4d94d2" />
 
