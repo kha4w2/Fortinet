@@ -24,7 +24,7 @@ This lab documents the step‑by‑step process of deploying a FortiGate virtual
 The lab topology is defined to establish the connectivity model. The FortiGate VM operates in NAT mode. Port1 connects to the WAN side using the 192.168.1.0/24 subnet and ultimately reaches the internet. Port2 connects to the internal LAN on the 10.0.0.0/24 subnet, where the Windows 10 client will reside. This logical overview guides all subsequent interface and policy configurations.
 
 <p align="center">
-  <img width="1100" height="380" alt="topology (4)" src="https://github.com/user-attachments/assets/b5f13da3-b8bc-42b1-8d8e-5a8a86d17a11" />
+  <img width="946" height="380" alt="topology (4)" src="https://github.com/user-attachments/assets/0215235c-faf2-43ac-b9cc-9b7620101715" />
 </p>
 
 **Figure 1:** High‑level topology of the lab environment.
