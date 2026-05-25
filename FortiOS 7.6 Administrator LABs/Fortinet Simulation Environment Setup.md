@@ -1,7 +1,6 @@
 # Fortinet Simulation Environment Setup
-### FortiOS 7.6 — VMware Workstation Lab
+## FortiOS 7.6 — VMware Workstation Lab
  
----
  
 <img width="1244" height="864" alt="Gemini_Generated_Image_k54sf9k54sf9k54s" src="https://github.com/user-attachments/assets/05d25501-c8f3-4340-a6f3-9d37ec2bcd25" />
 
