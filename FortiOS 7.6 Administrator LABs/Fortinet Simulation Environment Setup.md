@@ -3,8 +3,8 @@
  
 ---
  
-<img width="1268" height="832" alt="Gemini_Generated_Image_egt0moegt0moegt0" src="https://github.com/user-attachments/assets/08e3607b-9877-44cc-9271-c658aa906204" />
----
+<img width="1244" height="864" alt="Gemini_Generated_Image_k54sf9k54sf9k54s" src="https://github.com/user-attachments/assets/05d25501-c8f3-4340-a6f3-9d37ec2bcd25" />
+
  
 ## Table of Contents
 1. [Introduction](#introduction)
