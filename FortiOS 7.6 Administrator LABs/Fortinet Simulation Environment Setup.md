@@ -34,6 +34,8 @@ All devices are virtualized using VMware Workstation LAN Segments to create isol
 | BR1-FGT | port2 (LAN) | LAN-3 | 100.65.1.254/24 |
 | BR1-FGT | port3 (HQ-Link) | LAN-2 | 100.65.0.102/24 |
 | BR1-PC-1 | NIC | LAN-3 | 100.65.1.1/24 |
+| HQ-FAZ-1 | port1 (MGMT) | Bridged (Internet) | 192.168.1.13/24 (DHCP) |
+| HQ-FAZ-1 | port2 (LAN) | LAN-1 | 10.0.11.125/24 |
  
 > **Default Gateway:** Each PC uses its local FortiGate port2 as the default gateway.  
 > **DNS:** 8.8.8.8 on all endpoints.  
@@ -47,6 +49,7 @@ All devices are virtualized using VMware Workstation LAN Segments to create isol
 |---|---|
 | Hypervisor | VMware Workstation Pro |
 | FortiOS Image | FortiGate-VM64-v7.6.6 (OVF format) |
+| FortiAnalyzer Image | FortiAnalyzer-VM64-v7.4.11 (OVF format) |
 | Endpoint OS | Windows 10 (x2) |
 | FortiCare Account | Required for VM eval license activation |
 | Networking | VMware LAN Segments (LAN-1, LAN-2, LAN-3) |
